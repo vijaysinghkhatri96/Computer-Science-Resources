@@ -122,3 +122,4 @@
 | Javabasic                               | [http://java-online.r](http://java-online.ru/java-basic.xhtml)                                                                       | RU       |
 | Helloworld.ru                           | [http://www.helloworl](http://www.helloworld.ru/texts/comp/lang/java/java/03.htm)                                                    | RU       |
 | Wikiznanie                              | [http://www.wikiznani](http://www.wikiznanie.ru/wp/index.php/Java)                                                                   | RU       |
+| Hackr                              | [https://www.hackr](http://hackr.io/tutorials/learn-python)                                                                   | RU       |
